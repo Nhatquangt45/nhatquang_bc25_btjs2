@@ -1,0 +1,42 @@
+.xin__chao {
+  background-color: red;
+  font-size: 18px;
+  font-weight: 600;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 1rem;
+}
+.bai__1 {
+  text-align: center;
+}
+.bai__2 {
+  text-align: center;
+}
+.so__nguyen {
+  background-color: rgb(0, 255, 145);
+  font-size: 18px;
+  font-weight: 600;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 1rem;
+}
+.bai__4 {
+  text-align: center;
+}
+.canh {
+  background-color: rgb(0, 64, 255);
+  font-size: 18px;
+  font-weight: 600;
+  color: white;
+}
+.bai__3 {
+  text-align: center;
+}
+.so {
+  background-color: rgb(255, 0, 191);
+  font-size: 18px;
+  font-weight: 600;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 1rem;
+}
